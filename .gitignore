@@ -1,0 +1,5 @@
+/Intermedia/
+/Binary/
+*.sln
+CMakeLists.txt
+*.target.ini
