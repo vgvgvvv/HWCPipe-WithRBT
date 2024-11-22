@@ -1,0 +1,2 @@
+rbt --Mode Build --TargetPlatform Android --TargetArch arm64 --NDKTargetVersion 24 --BuildConfig Release
+rbt --Mode Build --TargetPlatform Android --TargetArch arm32 --NDKTargetVersion 24 --BuildConfig Release
